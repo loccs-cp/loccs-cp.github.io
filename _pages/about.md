@@ -30,7 +30,7 @@ My contributions have been recognized with awards including:
 
 🎓 Education experience
 ======
-- **Ph.D. (2018–2023)**, Shanghai Jiao Tong University  
+- **Ph.D. (2018–2023)**, Zhiyuan Honorary Doctorate, Shanghai Jiao Tong University  
 - **B.Eng. (2014–2018)**, University of Electronic Science and Technology of China 
 
 📑 Selected Publication
