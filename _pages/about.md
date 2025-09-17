@@ -34,7 +34,7 @@ My contributions have been recognized with awards including:
 - **B.Eng. (2014–2018)**, University of Electronic Science and Technology of China 
 
 📑 Selected Publication
-------
+======
 1. **Cao P**, Zhang H, Gu D, et al. *AL-PA: Cross-device profiled side-channel attack using adversarial learning*. **DAC 2022**: 691-696. (CCF-A, Top EDA Conference)  
 
 2. **Cao P**, Zhang C, Lu X, et al. *Improving deep learning based second-order side-channel analysis with bilinear CNN*. **IEEE TIFS**, 2022, 17: 3863-3876. (CCF-A, Top Security Journal)  
@@ -57,14 +57,14 @@ My contributions have been recognized with awards including:
 
 
 🏆 Awards
-------
+======
 - **First Prize**, Shanghai Technological Invention Award, 2023  
 - **Second Prize**, Shanghai Jiao Tong University Scientific Research Achievement Award, 2023
 - **Best Paper Award**, SAFE 2023
 - **Youth Innovation & Entrepreneurship Talent**, G60 Program  
 
 🔬 Academic Service
-------
+======
 - Core member of **NIST Lightweight Cryptography Side-Channel Security Evaluation Team**  
 - Reviewer for **CHES, TIFS, TDSC**, and other top-tier journals/conferences  
 - Committee member of **OpenHiTLS Cryptography Open Source Community**  
