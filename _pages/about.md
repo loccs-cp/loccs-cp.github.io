@@ -59,7 +59,9 @@ My contributions have been recognized with awards including:
 🏆 Awards
 
 - **First Prize**, Shanghai Technological Invention Award, 2023  
-- **Second Prize**, Shanghai Jiao Tong University Scientific Research Achievement Award, 2023  
+- **Second Prize**, Shanghai Jiao Tong University Scientific Research Achievement Award, 2023
+- **Best Paper Award**, SAFE 2023
+- **Youth Innovation & Entrepreneurship Talent**, G60 Program  
 
 🔬 Academic Service
 ------
