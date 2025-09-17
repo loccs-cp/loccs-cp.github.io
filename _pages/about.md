@@ -51,7 +51,9 @@ My contributions have been recognized with awards including:
 
 8. Zhang C, Lu X, **Cao P**, et al. *A non-profiled side-channel analysis based on variational lower bound related to mutual information*. **Science China Information Sciences**, 2023, 66(1): 112302. (CCF-A)  
 
-9. Yu J, Wang Y, Qu S, et al. *Efficient End-to-End Non-Profiled Side-Channel Analysis on Long Raw Traces*. **ESORICS 2025**. (CCF-B)  
+9. Yu J, Wang Y, Qu S, et al. *Efficient End-to-End Non-Profiled Side-Channel Analysis on Long Raw Traces*. **ESORICS 2025**. (CCF-B)
+    
+10. 张弘毅,谷大武,曹培,屈师培,李晓玮.基于频谱叠加技术的无线侧信道分析方法[J].密码学报,2023,10(4):862-878
 
 
 🏆 Awards
