@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Pei Cao (曹培)"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Pei Cao"
 description              : &description "Associate Researcher at Institute of Information Security and Cryptology, SJTU"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -30,7 +30,7 @@ author:
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
-  email            : "loccs_cp@sjtu.edu.cn.org" 
+  email            : "loccs_cp@sjtu.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -122,7 +122,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : True     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
