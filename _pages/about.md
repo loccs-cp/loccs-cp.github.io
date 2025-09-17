@@ -24,7 +24,7 @@ My contributions have been recognized with awards including:
   
 📬 Contact
 ======
-*Students with strong hands-on skills and interests in cryptographic engineering are welcome to contact me.*
+*Students with strong hands-on skills and interests in cryptographic engineering are welcome to contact me 🚀*
 
 - **Email:** loccs_cp@sjtu.edu.cn  
 
