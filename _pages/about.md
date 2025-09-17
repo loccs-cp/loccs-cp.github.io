@@ -60,8 +60,6 @@ My contributions have been recognized with awards including:
 
 🔬 Academic Service
 ------
-NIST 轻量级密码算法侧信道安全国际评估团队核心成员；
-
-CHES、TIFS、TDSC等密码工程领域会议和期刊审稿人；
-
-OpenHiTLS密码开源社区委员会委员
+- Core member of **NIST Lightweight Cryptography Side-Channel Security Evaluation Team**  
+- Reviewer for **CHES, TIFS, TDSC**, and other top-tier journals/conferences  
+- Committee member of **OpenHiTLS Cryptography Open Source Community**  
