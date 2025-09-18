@@ -17,7 +17,6 @@ I also led the development of:
 - **MCU information leakage acquisition device** and **multi-protocol acquisition device**  
 - **International NIST lightweight cryptography side-channel evaluation** (software/hardware implementations)  
 
-As a core member, I have participated in **NSFC projects** and **State Grid Corporation research projects**.  
 My contributions have been recognized with awards including:  
 - **First Prize, Shanghai Technological Invention Award (2023)**  
 - **Second Prize, Shanghai Jiao Tong University Scientific Research Achievement Award (2023)**
