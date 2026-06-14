@@ -44,17 +44,19 @@ My contributions have been recognized with awards including:
    
 5. An Z, Zhang C, Zhao Y, **Cao P** et al. *MixPincer: A Discrepancy-Based Adversarial Learning Framework for Cross-Device Profiled Side-Channel Analysis*. **ESORICS 2026**. (CCF-B)
 
-6. Lu X, Zhang C, **Cao P**, et al. *Pay attention to raw traces: A deep learning architecture for end-to-end profiling attacks*. **IACR TCHES**, 2021: 235-274. (CCF-B)  
+6. Wang Y, Yu J, **Cao P**, et al. *CAPE: Cross-Block Deep Learning Framework for Non-Profiled Side-Channel Analysis*. **ESORICS 2026**. (CCF-B)
 
-7. Wang T, Zhang C, **Cao P**, et al. *Efficient implementation of Dilithium signature scheme on FPGA SoC platform*. **IEEE TVLSI**, 2022, 30(9): 1158-1171. (CCF-B)  
+7. Lu X, Zhang C, **Cao P**, et al. *Pay attention to raw traces: A deep learning architecture for end-to-end profiling attacks*. **IACR TCHES**, 2021: 235-274. (CCF-B)  
 
-8. Wang T, Zhang C, Zhang X, et al. *Optimized hardware-software co-design for Kyber and Dilithium on RISC-V SoC FPGA*. **IACR TCHES**, 2024(3): 99-135. (CCF-B)  
+8. Wang T, Zhang C, **Cao P**, et al. *Efficient implementation of Dilithium signature scheme on FPGA SoC platform*. **IEEE TVLSI**, 2022, 30(9): 1158-1171. (CCF-B)  
 
-9. Zhang C, Lu X, **Cao P**, et al. *A non-profiled side-channel analysis based on variational lower bound related to mutual information*. **Science China Information Sciences**, 2023, 66(1): 112302. (CCF-A)  
+9. Wang T, Zhang C, Zhang X, et al. *Optimized hardware-software co-design for Kyber and Dilithium on RISC-V SoC FPGA*. **IACR TCHES**, 2024(3): 99-135. (CCF-B)  
 
-10. Yu J, Wang Y, Qu S, et al. *Efficient End-to-End Non-Profiled Side-Channel Analysis on Long Raw Traces*. **ESORICS 2025**. (CCF-B)
+10. Zhang C, Lu X, **Cao P**, et al. *A non-profiled side-channel analysis based on variational lower bound related to mutual information*. **Science China Information Sciences**, 2023, 66(1): 112302. (CCF-A)  
+
+11. Yu J, Wang Y, Qu S, et al. *Efficient End-to-End Non-Profiled Side-Channel Analysis on Long Raw Traces*. **ESORICS 2025**. (CCF-B)
     
-11. 张弘毅,谷大武,曹培,屈师培,李晓玮.基于频谱叠加技术的无线侧信道分析方法[J].密码学报,2023,10(4):862-878
+12. 张弘毅,谷大武,曹培,屈师培,李晓玮.基于频谱叠加技术的无线侧信道分析方法[J].密码学报,2023,10(4):862-878
 
 
 🏆 Awards
